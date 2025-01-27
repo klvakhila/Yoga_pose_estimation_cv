@@ -26,8 +26,12 @@ This application leverages **OpenCV**, **Mediapipe**, and **Streamlit** to detec
 ### Instructions to Run
 
 1. **Clone or download** the repository.
+
 2. **Install required dependencies**:
-   If a `requirements.txt` file is provided, use this command:
    ```bash
-   pip install -r requirements.txt
+   pip install streamlit opencv-python mediapipe numpy
+3. **Run**:
+   ```bash
+   streamlit run app.py
+
 
