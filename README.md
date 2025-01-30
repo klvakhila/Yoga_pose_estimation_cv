@@ -32,6 +32,6 @@ This application leverages **OpenCV**, **Mediapipe**, and **Streamlit** to detec
    pip install streamlit opencv-python mediapipe numpy
 3. **Run**:
    ```bash
-   streamlit run app.py
+   streamlit run pose_estimation.py
 
 
